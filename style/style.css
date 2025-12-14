@@ -28,8 +28,8 @@ footer{
 div#cor{
     font-size: 15px;
     background-color: aliceblue;
-    width: 190px;
+    width: 200px;
     border-radius: 8px;
     padding: 5px;
-    
+    text-align: left;
 }
