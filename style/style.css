@@ -24,3 +24,10 @@ footer{
     font-style:italic;
     text-align: center;
 }
+
+div#cor{
+    font-size: 15px;
+    background-color: aliceblue;
+    width: 300px;
+    border-radius: 8px;
+}
