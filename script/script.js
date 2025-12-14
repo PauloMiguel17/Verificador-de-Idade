@@ -50,3 +50,10 @@ function verificar(){
         res.appendChild(img)
     }
 }
+
+function alterar(){
+    const cor = document.getElementById('icolor');
+    const corsel = cor.value;
+    document.body.style.background = corsel
+    
+}
